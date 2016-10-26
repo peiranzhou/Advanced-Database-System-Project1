@@ -1,0 +1,130 @@
+Project 1 Group 18
+
+
+1. Team Members
+
+- Yuntong Wang (UNI: yw2768)
+- Peiran Zhou (UNI: pz2210)
+
+2. Files List
+
+- README
+- src/  
+- transcript.txt
+- ADBProject1.jar 
+
+3. How to Run Program
+
+We export project to a Runnable Jar.
+
+- Open terminal, cd into group18-proj1 folder
+- Type in: java -jar ADBProject1.jar <Bing Search Key> <Precision> '<Keywords>'
+
+Example: 
+$ java -jar ADBProject1.jar 53OwvtK4r/KYOc3jTU9KarhZhTIREr0CxhSEYw3EIKY 0.9 'taj mahal'
+
+4. Internal Design of Project
+
+For our project, there are five classes in program.
+- MainLogic.java
+- DocumentList.java
+- PostingList.java
+- Rocchio.java
+- Stopwords.java
+
+1> MainLogic 
+
+MainLogic is used to control the work logic of program. It gets the Bing Search Key, precision value and keywords from user. Then, it uses Bing Search API to retrieve top-10 results, and store JSON result to a customized class - DocumentList class. For each page in the query result, we displays its url, title and description in console, and collect relevance feedback from user, then save the result into DocumentList class. 
+
+Then, if the precision value is equal to 0 or reaches target precision, program will terminate. Otherwise, MainLogic will update documentVector first and then call Rocchio algorithm to get the expanded query.
+
+2> DocumentList
+   DocumentList class is designed to serve as information on each document including raw data fetched from Bing Search API, relevance and document vector. It also implements the method of calculating document vector from tf, idf data.
+
+   data structure:
+    Title
+    ID
+    __metadata
+    Url
+    DisplayUrl
+    Description
+    Relevance (from user console)
+    Document vector using vector-space model :
+        using 4 different types of tf-idf weighting scheme
+			LogTfIdf,
+			rawTfIdf,
+			dividedByMaxTfIdf,
+			noIdf
+
+   functions:
+    calculateDocumentVectors: calculate document vector (with Euclid normalization)
+    EuclidNormalizationOnDocumentVectors
+
+3> PostingList
+
+	PostingList is in charge of getting each term’s corresponding posting list. Recording the list of pages that term appears in, and calculating the term’s frequency in each page. 
+
+    data structure:
+	    PostingListMap:
+		    term t,
+		        DocId id,
+		            zone 1 ("title" eg)
+		                term frequency: # times t occurs in doc DocId in zone 1.
+		            zone 2 ("description" eg)
+		        Other docs
+		        .
+		        .
+		    other terms
+		    .
+		    .
+
+		DocStatForATerm : 
+
+		// data structure to store a page on a postingList
+		// specifically, for term t, a page is one of the document who contains the term
+
+			public String docId;
+			public long tfTitle;
+			public long TFDescription;
+			public long tfBody;
+
+    functions:
+    given term & DocId : get tf 
+    given term : get inverse document frequence (idf)
+ 
+
+4> Rocchio 
+
+Rocchio is responsible for analyzing user’s feedback, expanding new keywords, and reorder them.
+
+5> Stopwords
+
+Stopwords class has a hashset of stopwords coming from Rainbow.
+
+5. Detailed Description of Query-modification Method
+
+For query modification, We use the standard Rocchio algorithm with alpha = 1, beta = 0.75, gamma = 0.15. For initial query vector, we just give them equal weight that has a total distance of 1.
+
+The flow is described as following:
+
+ 1) process new documents and update postingList for each term. Mainly do the statistics and calculate tf and idf (note we will only use tf in our algorithm, but we also calculate the idf and provide other choices of tf-idf schemes. The reason why we only use tf will be explained below.)
+ 
+ 2) calculate document vectors. We use only-tf scheme when calculating document vector, using formula "weight = tf == 0 ? 0 : (1 + Math.log10(tf))". And for each document vector, we perform Euculidean Nomalization afterwards. 
+ 
+ *** we use only-tf scheme here because the amount of words in each document is relatively small (we didn't use crawler to crawl the whole webpage, because we tested it, the results is not ideal), so tf is good enough to capture the keywords we want. Interestingly, adding idf will make results even worse, because important words may end up appearing in each relevant document but not non-relevant ones, thus have weight 0, which is the last thing we want. 
+
+ 3) using rocchio algorithm to calculate the optimized query, and re-order them according to its score. Using standardized formula:
+ 		newQueryVector = 
+ 		  alpha * previousQueryVector
+        + beta * relavantDocumentVectorSum / relevantDocumentNumer
+        - gamma * nonRelavantDocumentVectorSum / nonRelevantDocumentNumber;
+    Little trick here is to set negative score as 0 and re-order the query based on the score they gained.
+
+6. Bing Search Account Key
+
+53OwvtK4r/KYOc3jTU9KarhZhTIREr0CxhSEYw3EIKY
+
+7. Reference
+
+[1] Introduction to Information Retrieval, Cambridge University Press. 2008, Christopher D. Manning, Prabhakar Raghavan and Hinrich Schütze, http://nlp.stanford.edu/IR-book/
+[2] “tf-idf” on Wikipedia : https://en.wikipedia.org/wiki/Tf-idf 

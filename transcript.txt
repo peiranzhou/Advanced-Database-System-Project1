@@ -1,0 +1,514 @@
+
+================================
+ROUND 1
+QUERY 
+musk 
+Result 1
+Relevant: NO
+[
+Title : Musk - Wikipedia, the free encyclopedia
+Url : https://en.wikipedia.org/wiki/Musk
+Summary : Musk is a class of aromatic substances commonly used as base notes in perfumery. They include glandular secretions from animals such as the musk deer, numerous plants ...
+]
+
+Result 2
+Relevant: YES
+[
+Title : Elon Musk unveils ambitious Mars colonization plan | Fox News
+Url : http://www.foxnews.com/science/2016/09/28/elon-musk-unveils-ambitious-mars-colonization-plan.html
+Summary : On Tuesday, SpaceX CEO Elon Musk unveiled plans for a spacecraft and rocket project that intends to put intelligent life on Mars: human life. In a speech ...
+]
+
+Result 3
+Relevant: YES
+[
+Title : Elon Musk to Tesla employees: NEVER discount a car
+Url : http://money.cnn.com/2016/09/30/technology/tesla-elon-musk-discount/index.html
+Summary : Telsa CEO Elon Musk chided his salespeople for offering discounts to customers, violating the company's strict 'no negotiation, no discount' policy.
+]
+
+Result 4
+Relevant: YES
+[
+Title : Elon Musk - CNBC
+Url : http://www.cnbc.com/elon-musk/
+Summary : Elon Musk, Tesla ... Wednesday, 28 Sep 2016 | 7:46 AM ET. It's a time where people are recognizing the value of science in our lives, says astrophysicist Neil ...
+]
+
+Result 5
+Relevant: NO
+[
+Title : Musk | Define Musk at Dictionary.com
+Url : http://www.dictionary.com/browse/musk
+Summary : Musk definition, a substance secreted in a glandular sac under the skin of the abdomen of the male musk deer, having a strong odor, and used in perfumery. See more.
+]
+
+Result 6
+Relevant: YES
+[
+Title : Elon Musk’s Plan: Get Humans to Mars, and Beyond
+Url : http://www.nytimes.com/2016/09/28/science/elon-musk-spacex-mars-exploration.html
+Summary : SpaceX, Elon Musk’s rocket company, released a video simulation of a journey to Mars. His plan is for spacecraft that would take 100 passengers to the ...
+]
+
+Result 7
+Relevant: NO
+[
+Title : Musk | Definition of Musk by Merriam-Webster
+Url : http://www.merriam-webster.com/dictionary/musk
+Summary : :a strong-smelling material that is used in perfumes and is obtained from a gland of an Asian deer (musk deer) or is prepared artificially
+]
+
+Result 8
+Relevant: NO
+[
+Title : Musk - definition of musk by The Free Dictionary
+Url : http://www.thefreedictionary.com/musk
+Summary : musk (mŭsk) n. 1. a. A greasy secretion with a powerful odor, produced in a glandular sac in the abdomen of a male musk deer and used in traditional medicines and ...
+]
+
+Result 9
+Relevant: YES
+[
+Title : Elon Musk Outlines Plans for Missions to Mars - WSJ
+Url : http://www.wsj.com/articles/elon-musk-outlines-plans-for-manned-missions-to-mars-1475011627
+Summary : Elon Musk unveiled his contrarian vision of sending humans to Mars in roughly the next decade and ultimately setting up colonies there, relying on bold moves by ...
+]
+
+Result 10
+Relevant: YES
+[
+Title : Elon Musk - Wikipedia, the free encyclopedia
+Url : https://en.wikipedia.org/wiki/Elon_Musk
+Summary : Elon Reeve Musk (/ ˈ iː l ɒ n ˈ m ʌ s k /; born June 28, 1971) is a South African-born Canadian-American business magnate, investor, engineer and ...
+]
+
+PRECISION :0.6
+================================
+ROUND 2
+QUERY 
+musk elon mars 
+Result 1
+Relevant: YES
+[
+Title : Boeing says it will overtake Elon Musk in race to Mars ...
+Url : http://money.cnn.com/2016/10/05/technology/boeing-mars-spacex-elon-musk/index.html
+Summary : Elon Musk wants to put humans on Mars by 2025, but the Boeing CEO says the first person to arrive on the planet will do so on a Boeing rocket.
+]
+
+Result 2
+Relevant: YES
+[
+Title : Elon Musk’s Plan: Get Humans to Mars, and Beyond
+Url : http://www.nytimes.com/2016/09/28/science/elon-musk-spacex-mars-exploration.html
+Summary : SpaceX, Elon Musk’s rocket company, released a video simulation of a journey to Mars. His plan is for spacecraft that would take 100 passengers to the ...
+]
+
+Result 3
+Relevant: YES
+[
+Title : Elon Musk unveils ambitious Mars colonization plan | Fox News
+Url : http://www.foxnews.com/science/2016/09/28/elon-musk-unveils-ambitious-mars-colonization-plan.html
+Summary : On Tuesday, SpaceX CEO Elon Musk unveiled plans for a spacecraft and rocket project that intends to put intelligent life on Mars: human life. In a speech ...
+]
+
+Result 4
+Relevant: YES
+[
+Title : Elon Musk Expected to Detail SpaceX's Mars Ambitions
+Url : http://abcnews.go.com/Technology/elon-musk-expected-detail-spacexs-mars-ambitions/story?id=42361304
+Summary : Speculation is rife that SpaceX CEO Elon Musk is about to detail plans to take humans to Mars within a decade. The space, car and tech mogul is scheduled to speak ...
+]
+
+Result 5
+Relevant: YES
+[
+Title : How Elon Musk Plans to Go to Mars - gizmodo.com
+Url : http://gizmodo.com/this-is-how-elon-musk-plans-to-build-a-city-on-mars-up-1787146547
+Summary : SpaceX plans to build a “self-sustaining city” on Mars, according to its founder Elon Musk. But, while we now know a lot more about how SpaceX plans to get to ...
+]
+
+Result 6
+Relevant: YES
+[
+Title : Elon Musk: Is his Mars Shot impossible or inspired?
+Url : http://mashable.com/2016/09/28/elon-musk-mars-plan-analysis/
+Summary : We now know the full extent of SpaceX founder and CEO Elon Musk’s Mars colonization plan and his incredible Interplanetary Transport System.
+]
+
+Result 7
+Relevant: YES
+[
+Title : SpaceX founder Elon Musk plans to get humans to Mars in ...
+Url : https://www.theguardian.com/technology/2016/sep/27/elon-musk-spacex-mars-colony
+Summary : SpaceX founder Elon Musk has outlined his highly ambitious vision for manned missions to Mars, which he said could begin as soon as 2022 – three years ...
+]
+
+Result 8
+Relevant: YES
+[
+Title : Elon Musk Outlines Plans for Missions to Mars - WSJ
+Url : http://www.wsj.com/articles/elon-musk-outlines-plans-for-manned-missions-to-mars-1475011627
+Summary : Elon Musk unveiled his contrarian vision of sending humans to Mars in roughly the next decade and ultimately setting up colonies there, relying on bold moves by ...
+]
+
+Result 9
+Relevant: YES
+[
+Title : Elon Musk - Wikipedia, the free encyclopedia
+Url : https://en.wikipedia.org/wiki/Elon_Musk
+Summary : Elon Reeve Musk June 28, 1971 (age 45) Pretoria, ... Elon Musk: 'I'm planning to retire to Mars', video interview for The Guardian, August 1, 2010;
+]
+
+Result 10
+Relevant: YES
+[
+Title : SpaceX CEO Elon Musk unveils grandiose plan to colonize ...
+Url : http://www.cbsnews.com/news/spacex-elon-musk-unveils-grandiose-plan-to-colonize-mars/
+Summary : SpaceX founder Elon Musk says he plans to build huge new reusable rockets and spaceships to eventually ferry colonists to Mars
+]
+
+PRECISION :1.0
+Required precision@10 0.9 is reached with 1.0
+================================
+ROUND 1
+QUERY 
+brin 
+Result 1
+Relevant: NO
+[
+Title : Brin - definition of brin by The Free Dictionary
+Url : http://www.thefreedictionary.com/Brin
+Summary : brin (brɪn) n. 1. (Animals) one of two filaments of silk combined by the silkworm to form a strand of silk. 2. one of the ribs of a fan
+]
+
+Result 2
+Relevant: YES
+[
+Title : Sergey Brin - Wikipedia, the free encyclopedia
+Url : https://en.wikipedia.org/wiki/Sergey_Brin
+Summary : Early life and education. Brin was born in Moscow in the Soviet Union, to Russian Jewish parents, Yevgenia and Mikhail Brin, both graduates of Moscow State ...
+]
+
+Result 3
+Relevant: NO
+[
+Title : BRiN - Your Personal Business Advisor
+Url : http://brin.ai/
+Summary : Download BRiN today & get instant access to real-time support and hundreds of business education videos. Introducing BRiN - Your Personal Business Advisor.
+]
+
+Result 4
+Relevant: NO
+[
+Title : worlds of DAVID BRIN
+Url : http://www.davidbrin.com/
+Summary : official website of best-selling science fiction writer and futurist DAVID BRIN
+]
+
+Result 5
+Relevant: NO
+[
+Title : How Your Brain Works | HowStuffWorks
+Url : http://science.howstuffworks.com/life/inside-the-mind/human-brain/brain.htm
+Summary : How Your Brain Works. by Craig Freudenrich, Ph.D. & Robynne Boyd Science | The Human Brain. NEXT PAGE NEXT . The human nervous system ...
+]
+
+Result 6
+Relevant: NO
+[
+Title : Minnesota Glass, Minneapolis Glass - Brin Northwestern ...
+Url : http://bringlass.com/
+Summary : Founded in 1912, Brin Northwestern Glass has nearly a century of experience in residential and commercial glass and glazing in MN and WI.
+]
+
+Result 7
+Relevant: NO
+[
+Title : Bring It! Full Episodes, Video & More | Lifetime
+Url : http://www.mylifetime.com/shows/bring-it
+Summary : Bring It! Email Updates. Get updates on new episodes, sneak peeks, and more! Please enter a valid email address. By submitting your information, you agree to receive ...
+]
+
+Result 8
+Relevant: NO
+[
+Title : BriN - YouTube
+Url : http://www.youtube.com/user/ImmJustBrian
+Summary : BriN Videos; Playlists; Channels; Discussion; About; Home Trending History Best of YouTube Music Sports Gaming Movies ...
+]
+
+Result 9
+Relevant: NO
+[
+Title : BrainPOP
+Url : https://www.brainpop.com/
+Summary : BrainPOP - Animated Educational Site for Kids - Science, Social Studies, English, Math, Arts & Music, Health, and Technology
+]
+
+Result 10
+Relevant: NO
+[
+Title : Brain (Human Anatomy): Picture, Function, Parts ...
+Url : http://www.webmd.com/brain/picture-of-the-brain
+Summary : WebMD's Brain Anatomy Page provides a detailed diagram and definition of the brain including its function, parts, and conditions that affect it.
+]
+
+PRECISION :0.1
+================================
+ROUND 2
+QUERY 
+brin moscow state 
+Result 1
+Relevant: YES
+[
+Title : Sergey Brin - Wikipedia, the free encyclopedia
+Url : https://en.wikipedia.org/wiki/Sergey_Brin
+Summary : Early life and education. Brin was born in Moscow in the Soviet Union, to Russian Jewish parents, Yevgenia and Mikhail Brin, both graduates of Moscow State University ...
+]
+
+Result 2
+Relevant: YES
+[
+Title : Sergey Brin – Russiapedia Business Prominent Russians
+Url : http://russiapedia.rt.com/prominent-russians/business/sergey-brin/
+Summary : Both his parents, Mikhail and Evgenia Brin, are mathematicians who graduated from Moscow State University. ... Sergey Brin Sergey Brin is a Soviet-born American ...
+]
+
+Result 3
+Relevant: YES
+[
+Title : The Story of Sergey Brin - Moment Magazine
+Url : http://www.momentmag.com/the-story-of-sergey-brin/
+Summary : The Story of Sergey Brin ... But gaining acceptance to the math department at Moscow State, home of arguably the brightest mathematicians in the world, ...
+]
+
+Result 4
+Relevant: NO
+[
+Title : Brin-Navolok - Wikipedia, the free encyclopedia
+Url : https://en.wikipedia.org/wiki/Brin-Navolok
+Summary : Brin-Navolok Брин ... Located 130 km South-East of Arkhangelsk and 1125 km North-East of Moscow on the left Bank of the ... 107,4 FM Radio Station "State 29 ...
+]
+
+Result 5
+Relevant: YES
+[
+Title : Sergey Brin | Google Wiki | Fandom powered by Wikia
+Url : http://google.wikia.com/wiki/Sergey_Brin
+Summary : Early life and education Edit. Brin was born in Moscow to Russian Jewish parents, Michael Brin and Eugenia Brin, both graduates of Moscow State University.
+]
+
+Result 6
+Relevant: YES
+[
+Title : Sergey Brin Profiles | Facebook
+Url : https://www.facebook.com/public/Sergey-Brin
+Summary : People named Sergey Brin. Find your friends on Facebook. ... Moscow State University of Economics, Statistics, and Informatics. See Photos. Sergey Brin. Google.
+]
+
+Result 7
+Relevant: YES
+[
+Title : Sergey Brin - Engineer, Inventor, Computer Programmer ...
+Url : http://www.biography.com/people/sergey-brin-12103333
+Summary : Synopsis. Sergey Brin was born on August 21, 1973, in Moscow, Russia. His family emigrated to the United States to escape Jewish persecution in 1979.
+]
+
+Result 8
+Relevant: YES
+[
+Title : Sergey Brin - Wikipedia for Schools
+Url : http://schools-wikipedia.org/wp/s/Sergey_Brin.htm
+Summary : An article about Sergey Brin hand selected for the Wikipedia for Schools by SOS Children. ... Michael Brin and Eugenia Brin, both graduates of Moscow State University.
+]
+
+Result 9
+Relevant: YES
+[
+Title : Sergey Brin - Metapedia
+Url : http://en.metapedia.org/wiki/Sergey_Brin
+Summary : Sergey Brin was born in Moscow to Russian Jewish parents, Michael Brin and Eugenia Brin, both graduates of Moscow State University.
+]
+
+Result 10
+Relevant: YES
+[
+Title : Sergey Brin - 6th Grade Humanities - Google Sites
+Url : https://sites.google.com/site/techprep6thhum/sergei-brin
+Summary : 6th Grade Humanities. Search this site. Home. Arnold Schwarzenegger. Bob Hope. ... the son of Michael Brin and Eugenia Brin, both graduates of Moscow State University.
+]
+
+PRECISION :0.9
+Required precision@10 0.9 is reached with 0.9
+================================
+ROUND 1
+QUERY 
+taj mahal 
+Result 1
+Relevant: NO
+[
+Title : Taj Mahal - Wikipedia, the free encyclopedia
+Url : https://en.wikipedia.org/wiki/Taj_Mahal
+Summary : The Taj Mahal (/ ˌ t ɑː dʒ m ə ˈ h ɑː l /, more often / ˈ t ɑː ʒ /; Persian for Crown of Palaces) is an ivory-white marble mausoleum on the ...
+]
+
+Result 2
+Relevant: NO
+[
+Title : Atlantic City New Jersey Casino Hotels | Trump Taj Mahal ...
+Url : http://www.trumptaj.com/
+Summary : Trump Taj Mahal will close and cease casino and hotel operations on Monday, October 10, 2016 at 5:59am. Please see below regarding your Trump One® account and the ...
+]
+
+Result 3
+Relevant: NO
+[
+Title : Welcome To Official WebSite of Taj Mahal-U.P.Tourism
+Url : http://tajmahal.gov.in/
+Summary : Official website by Department of Tourism, Government of Uttar Pradesh. Details about Taj Mahal, ticketing, tours, and tourist information.
+]
+
+Result 4
+Relevant: NO
+[
+Title : Welcome To Official WebSite of Taj Mahal-U.P.Tourism
+Url : http://www.tajmahal.gov.in/picture_gallery.html
+Summary : Taj Mahal at Agra, India is one of the wonders of the world. Find information related to Taj Mahal travel and tourism in this article.
+]
+
+Result 5
+Relevant: NO
+[
+Title : Taj Mahal India
+Url : http://www.tajmahal.com/
+Summary : Taj Mahal, Taj Mahal history, taj mahal location, pictures, information, taj mahal tours, tickets and packages. Taj Mahal India
+]
+
+Result 6
+Relevant: NO
+[
+Title : The Taj Mahal - Facts & Summary - HISTORY.com
+Url : http://www.history.com/topics/taj-mahal
+Summary : Find out more about the history of The Taj Mahal, including videos, interesting articles, pictures, historical features and more. Get all the facts on HISTORY.com
+]
+
+Result 7
+Relevant: NO
+[
+Title : Taj Mahal - Best Restaurant & Dining | Lancaster PA | Taj ...
+Url : http://www.tajlancaster.com/
+Summary : Enjoy Indian cuisine in all its variety. Taj Mahal is consistently voted one of the best restaurants in Lancaster PA. Call 717-295-1434 for dining reservations!
+]
+
+Result 8
+Relevant: YES
+[
+Title : Taj Mahal — Free listening, videos, concerts, stats and ...
+Url : http://www.last.fm/music/Taj+Mahal
+Summary : Taj Mahal (born Henry Saint Clair Fredericks in New York City on May 17, 1942) is an American Grammy Award-winning blues musician who incorporates elements of world ...
+]
+
+Result 9
+Relevant: YES
+[
+Title : Taj Mahal | Biography, Albums, Streaming Links | AllMusic
+Url : http://www.allmusic.com/artist/taj-mahal-mn0000790604
+Summary : Find Taj Mahal bio, music, credits, awards, & streaming links on AllMusic - A guitarist and singer/songwriter who took an…
+]
+
+Result 10
+Relevant: NO
+[
+Title : Taj Mahal -- World Heritage Site -- National Geographic
+Url : http://travel.nationalgeographic.com/travel/world-heritage/taj-mahal/
+Summary : Get facts, photos, and travel tips for the Taj Mahal, a World Heritage site in India, from National Geographic.
+]
+
+PRECISION :0.2
+================================
+ROUND 2
+QUERY 
+mahal taj bio music 
+Result 1
+Relevant: YES
+[
+Title : Biography - Taj Mahal
+Url : http://www.tajblues.com/biography/
+Summary : Taj Mahal. In September 2014, some 50 years after moving to Los Angeles to form the band Rising Sons with fellow blues musician Ry Cooder and Jessie Lee Kincaid, Taj ...
+]
+
+Result 2
+Relevant: YES
+[
+Title : Taj Mahal | Biography, Albums, Streaming Links | AllMusic
+Url : http://www.allmusic.com/artist/taj-mahal-mn0000790604
+Summary : Find Taj Mahal bio, music, credits, awards, & streaming links on AllMusic - A guitarist and singer/songwriter who took an…
+]
+
+Result 3
+Relevant: YES
+[
+Title : Taj Mahal (musician) - Wikipedia, the free encyclopedia
+Url : https://en.wikipedia.org/wiki/Taj_Mahal_(musician)
+Summary : Henry Saint Clair Fredericks (born May 17, 1942), who uses the stage name Taj Mahal, is an American blues musician. He often incorporates elements of world music into ...
+]
+
+Result 4
+Relevant: YES
+[
+Title : Taj Mahal — Free listening, videos, concerts, stats and ...
+Url : http://www.last.fm/music/Taj+Mahal
+Summary : Taj Mahal (born Henry Saint Clair Fredericks in New York City on May 17, 1942) is an American Grammy Award-winning blues musician who incorporates elements of world ...
+]
+
+Result 5
+Relevant: YES
+[
+Title : Taj Mahal music - Listen Free on Jango || Pictures, Videos ...
+Url : http://www.jango.com/music/Taj+Mahal
+Summary : Unlimited free Taj Mahal music - Click to play Statesboro Blues, Johnny Too Bad and whatever else you want! Henry Saint Clair Fredericks (born May 17, 1942), who uses ...
+]
+
+Result 6
+Relevant: YES
+[
+Title : Taj Mahal - YouTube
+Url : http://www.youtube.com/user/TajMahalMusic
+Summary : Taj Mahal subscribed to a channel 2 years ... taj mahal trio- john henry-infinity music hall , ... taj mahal+ the phantom blues band ,further on down the road ...
+]
+
+Result 7
+Relevant: YES
+[
+Title : Taj Mahal | New Music And Songs
+Url : http://www.mtv.com/artists/taj-mahal/
+Summary : Taj Mahal new music, concerts, photos, and official news updates directly from Taj Mahal's Twitter and Facebook.
+]
+
+Result 8
+Relevant: NO
+[
+Title : An International Treasure - Taj Mahal
+Url : http://www.tajblues.com/
+Summary : Official site includes news, tour schedule, discography, audio/video and pictures.
+]
+
+Result 9
+Relevant: YES
+[
+Title : Taj Mahal - Wikipedia, the free encyclopedia
+Url : https://en.wikipedia.org/wiki/Taj_Mahal
+Summary : Taj Mahal ताजमहल ... Inside, a 1968 new-age music album recorded in the building; References Notes Sources. Asher, Catherine B. Architecture of Mughal ...
+]
+
+Result 10
+Relevant: YES
+[
+Title : Taj Mahal | Biography & History | AllMusic
+Url : http://www.allmusic.com/artist/taj-mahal-mn0000790604/biography
+Summary : Find Taj Mahal biography and history on AllMusic - One of the most prominent figures in late 20th…
+]
+
+PRECISION :0.9
+Required precision@10 0.9 is reached with 0.9
